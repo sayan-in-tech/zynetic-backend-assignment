@@ -132,12 +132,6 @@ Update environment variables and profiles as needed for production environments.
 
 ---
 
-## 📄 License
-
-Licensed under the [Apache License 2.0](LICENSE).
-
----
-
 ## 🙌 Acknowledgments
 
 * [Spring Boot Docs](https://spring.io/projects/spring-boot)
